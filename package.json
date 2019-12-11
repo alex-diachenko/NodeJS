@@ -1,0 +1,18 @@
+{
+  "name": "test-server",
+  "version": "1.0.0",
+  "description": "my test server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "alex diachenko",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
